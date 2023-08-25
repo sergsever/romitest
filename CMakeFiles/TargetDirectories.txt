@@ -1,0 +1,3 @@
+/usr/src/romi/CMakeFiles/comreader.dir
+/usr/src/romi/CMakeFiles/edit_cache.dir
+/usr/src/romi/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/comreader.dir/ComReader.cpp.o CMakeFiles/comreader.dir/Message.cpp.o -o comreader 
